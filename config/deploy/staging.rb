@@ -1,1 +1,2 @@
-server "sample-web-server", user: "deploy", roles: %w{app db web}
+server "sample-web-server", user: "suraj", roles: %w{app db web}
+
